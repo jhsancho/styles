@@ -1,5 +1,4 @@
 {
-	"data": {
 		"styles": {
 			"primary-colors": "271, 37%",
 			"primary-luminance": "60%",
@@ -15,5 +14,4 @@
 			"bgColor-warning": "#FFCC70",
 			"bgColor-error": "#C63D2F"
 		}
-	}
 }
