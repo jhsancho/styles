@@ -1,5 +1,6 @@
 {
-		"styles": {
+		"data": {
+			"styles":{
 			"primary-colors": "271, 37%",
 			"primary-luminance": "60%",
 			"interaction-colors": "265, 53%",
@@ -13,5 +14,5 @@
 			"bgColor-success": "#C3EDC0",
 			"bgColor-warning": "#FFCC70",
 			"bgColor-error": "#C63D2F"
-		}
+		}}
 }
