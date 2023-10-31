@@ -13,6 +13,7 @@
 			"bgColor-info": "#F0EDF4",
 			"bgColor-success": "#C3EDC0",
 			"bgColor-warning": "#FFCC70",
-			"bgColor-error": "#C63D2F"
+			"bgColor-error": "#C63D2F",
+			"button-borderRadius": "500px"
 		}}
 }
