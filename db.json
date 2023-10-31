@@ -14,6 +14,7 @@
 			"bgColor-success": "#C3EDC0",
 			"bgColor-warning": "#FFCC70",
 			"bgColor-error": "#C63D2F",
-			"button-borderRadius": "500px"
+			"button-borderRadius": "500px",
+			"sessionsDetails-buttonsWrapper-border-radius": "500px"
 		}}
 }
