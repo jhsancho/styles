@@ -1,9 +1,9 @@
 {
 		"data": {
 			"styles":{
-			"primary-colors": "207, 19%",
+			"primary-hue-saturation": "207, 19%",
 			"primary-luminance": "20%",
-			"interaction-colors": "0, 92%",
+			"interaction-hue-saturation": "0, 92%",
 			"interaction-luminance": "39%",
 			"fonts-regular": "Gotham, Gotham-fallback, sans-serif",
 			"color-info": "#68478D",
