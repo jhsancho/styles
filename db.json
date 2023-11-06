@@ -49,7 +49,17 @@
 					"detail-info-operator-color": "#990",
 					"modal-footer-backBtn-color": "#990",
 					"modal-faq-color": "#990",
-					"button-color-disable": "white"
+					"terms-link-color": "#990",
+					"button-color-disable": "white",
+					"container-border-active": "var(--recoglobick-border-style) #333",
+					"calendar-color-selected": "#333",
+					"sessions-label-color": "#333",
+					"sessions-icon-color": "#333",
+					"sessionsDetails-buttons-color": "#333",
+					"personalDetailsForm-section-title-color": "#333",
+					"paymentInfoCard-total-content-color": "#333",
+					"paymentInfoCard-total-label-color": "#333",
+					"sessionsDetails-input-color-data": "#333"
 				}
 			}
 		}
