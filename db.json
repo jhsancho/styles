@@ -21,8 +21,8 @@
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))"
 				},
 				"vueling": {
-					"primary-hue-saturation": "",
-					"primary-luminance": "",
+					"primary-hue-saturation": "48, 100%",
+					"primary-luminance": "50%",
 					"interaction-hue-saturation": "48, 100%",
 					"interaction-luminance": "50%",
 					"interaction-darken": "#e9bb01",
@@ -40,10 +40,14 @@
 					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button-color": "#333",
+					"detail-section-title-color": "#333",
+					"detail-categories-color": "#333",
 					"button-fontWeight": "600",
 					"disclaimer-link-color": "#990",
 					"card-operator-label-color": "#990",
-					"card-operator-color": "#990"
+					"card-operator-color": "#990",
+					"detail-info-operator-color": "#990",
+					"modal-faq-color": "#990"
 				}
 			}
 		}
