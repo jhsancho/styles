@@ -38,7 +38,8 @@
 					"sessionsDetails-buttonsWrapper-border-radius": "500px",
 					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
-					"button-color": "#333"
+					"button-color": "#333",
+					"button-fontWeight": "600"
 				}
 			}
 		}
