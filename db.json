@@ -1,22 +1,44 @@
 {
 		"data": {
-			"styles":{
-			"primary-hue-saturation": "207, 19%",
-			"primary-luminance": "20%",
-			"interaction-hue-saturation": "0, 92%",
-			"interaction-luminance": "39%",
-			"fonts-regular": "Gotham, Gotham-fallback, sans-serif",
-			"color-info": "#68478D",
-			"color-success": "",
-			"color-warning": "#68478D",
-			"color-error": "white",
-			"bgColor-info": "#F0EDF4",
-			"bgColor-success": "#C3EDC0",
-			"bgColor-warning": "#F0EDF4",
-			"bgColor-error": "#C63D2F",
-			"button-borderRadius": "500px",
-			"sessionsDetails-buttonsWrapper-border-radius": "500px",
-			"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
-			"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))"
-		}}
+			"styles": {
+				"radisson": {
+					"primary-hue-saturation": "207, 19%",
+					"primary-luminance": "20%",
+					"interaction-hue-saturation": "0, 92%",
+					"interaction-luminance": "39%",
+					"fonts-regular": "Gotham, Gotham-fallback, sans-serif",
+					"color-info": "#68478D",
+					"color-success": "",
+					"color-warning": "#68478D",
+					"color-error": "white",
+					"bgColor-info": "#F0EDF4",
+					"bgColor-success": "#C3EDC0",
+					"bgColor-warning": "#F0EDF4",
+					"bgColor-error": "#C63D2F",
+					"button-borderRadius": "500px",
+					"sessionsDetails-buttonsWrapper-border-radius": "500px",
+					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
+					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))"
+				},
+				"vueling": {
+					"primary-hue-saturation": "",
+					"primary-luminance": "",
+					"interaction-hue-saturation": "48, 100%",
+					"interaction-luminance": "50%",
+					"fonts-regular": "Gotham, Gotham-fallback, sans-serif",
+					"color-info": "#68478D",
+					"color-success": "",
+					"color-warning": "#68478D",
+					"color-error": "white",
+					"bgColor-info": "#F0EDF4",
+					"bgColor-success": "#C3EDC0",
+					"bgColor-warning": "#F0EDF4",
+					"bgColor-error": "#C63D2F",
+					"button-borderRadius": "500px",
+					"sessionsDetails-buttonsWrapper-border-radius": "500px",
+					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
+					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))"
+				}
+			}
+		}
 }
