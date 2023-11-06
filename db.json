@@ -25,6 +25,7 @@
 					"primary-luminance": "",
 					"interaction-hue-saturation": "48, 100%",
 					"interaction-luminance": "50%",
+					"interaction-darken": "#e9bb01",
 					"fonts-regular": "NunitoSans-Regular, sans-serif",
 					"color-info": "#68478D",
 					"color-success": "",
@@ -39,7 +40,8 @@
 					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button-color": "#333",
-					"button-fontWeight": "600"
+					"button-fontWeight": "600",
+					"disclaimer-link-color": "#990"
 				}
 			}
 		}
