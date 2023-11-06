@@ -25,7 +25,7 @@
 					"primary-luminance": "",
 					"interaction-hue-saturation": "48, 100%",
 					"interaction-luminance": "50%",
-					"fonts-regular": "Gotham, Gotham-fallback, sans-serif",
+					"fonts-regular": "NunitoSans-Regular, sans-serif",
 					"color-info": "#68478D",
 					"color-success": "",
 					"color-warning": "#68478D",
