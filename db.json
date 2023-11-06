@@ -41,7 +41,8 @@
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button-color": "#333",
 					"button-fontWeight": "600",
-					"disclaimer-link-color": "#990"
+					"disclaimer-link-color": "#990",
+					"card-operator-label-color": "#990"
 				}
 			}
 		}
