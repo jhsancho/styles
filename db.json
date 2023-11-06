@@ -49,6 +49,7 @@
 					"detail-info-operator-color": "#990",
 					"modal-footer-backBtn-color": "#990",
 					"modal-faq-color": "#990",
+					"modal-faq-color-hover": "#990",
 					"terms-link-color": "#990",
 					"button-color-disable": "white",
 					"container-border-active": "var(--recoglobick-border-style) #333",
