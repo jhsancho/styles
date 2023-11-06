@@ -49,6 +49,7 @@
 					"detail-info-operator-color": "#990",
 					"modal-footer-backBtn-color": "#990",
 					"modal-faq-color": "#990",
+					"button-color-disable": "white"
 				}
 			}
 		}
