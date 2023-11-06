@@ -39,7 +39,9 @@
 					"sessionsDetails-buttonsWrapper-border-radius": "500px",
 					"button-bgColor-hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button-bgColor-active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
+					"button-color-disabled": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button-color": "#333",
+					"button-color-disable": "#e9bb01",
 					"detail-section-title-color": "#333",
 					"detail-categories-color": "#333",
 					"button-fontWeight": "600",
@@ -47,7 +49,9 @@
 					"card-operator-label-color": "#990",
 					"card-operator-color": "#990",
 					"detail-info-operator-color": "#990",
-					"modal-faq-color": "#990"
+					"modal-footer-backBtn-color": "#990",
+					"modal-faq-color": "#990",
+					"spinner-color-btn-disabled": "#e9bb01"
 				}
 			}
 		}
