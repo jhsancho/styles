@@ -51,7 +51,7 @@
 					"modal_faq_color": "#990",
 					"modal_faq_color_hover": "#990",
 					"terms_link_color": "#990",
-					"button_color_disable": "white",
+					"button_color_disable": "var(--recoglobick-interaction)",
 					"container_border_active": "var(--recoglobick-border-style) #333",
 					"calendar_color_selected": "#333",
 					"sessions_label_color": "#333",
