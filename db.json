@@ -30,7 +30,7 @@
 					"color_info": "#0da398",
 					"color_success": "#990",
 					"color_warning": "#fa6000",
-					"color_error": "white",
+					"color_error": "#4d4d4d",
 					"bgColor_info": "#dbf1f0",
 					"bgColor_success": "#f0f0d9",
 					"bgColor_warning": "#fae2d4",
