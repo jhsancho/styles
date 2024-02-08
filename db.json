@@ -6,7 +6,7 @@
 					"primary_luminance": "20%",
 					"interaction_hue_saturation": "0, 92%",
 					"interaction_luminance": "39%",
-					"fonts_regular": "Gotham, Gotham-fallback, sans-serif",
+					"fonts_regular": "Gotham, Gotham_fallback, sans_serif",
 					"color_info": "#68478D",
 					"color_success": "",
 					"color_warning": "#68478D",
@@ -17,7 +17,7 @@
 					"bgColor_error": "#C63D2F",
 					"button_borderRadius": "500px",
 					"sessionsDetails_buttonsWrapper_border_radius": "500px",
-					"button_bgColor_hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
+					"button_bgColor_hover": "var(__recoglobick_interaction_darken, var(__recoglobick_mmb-interaction-darken))",
 					"button_bgColor_active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))"
 				},
 				"vueling": {
@@ -65,8 +65,8 @@
 					"button-color-disable": "white"
 				},
 				"valencia": {
-					"primary_hue_saturation": "48, 100%",
-					"primary_luminance": "50%",
+					"primary_hue_saturation": "19, 100%",
+					"primary_luminance": "56%",
 					"interaction_hue_saturation": "19, 100%",
 					"interaction_luminance": "56%",
 					"interaction_darken": "#d94b07",
@@ -84,7 +84,7 @@
 					"button_bgColor_hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button_bgColor_active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button_color": "#fff",
-					"activities-title-font": "Stratos, serif",
+					"activities_title_font": "Stratos, serif",
 					"detail_section_title_color": "#333",
 					"detail_categories_color": "#333",
 					"button_fontWeight": "600",
@@ -96,20 +96,21 @@
 					"modal_faq_color": "#ff671f",
 					"modal_faq_color_hover": "#ff671f",
 					"terms_link_color": "#ff671f",
-					"swiper-button-color": "#333",
+					"swiper_button_color": "#333",
 					"button_color_disable": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
-					"container_border_active": "var(--recoglobick-border-style, var(--recoglobick-mmb-border-style)) #333",
-					"calendar_color_selected": "#333",
+					"container_border_active": "var(--recoglobick-border-style, var(--recoglobick-mmb-border-style)) #fff",
+					"calendar_color_selected": "#fff",
 					"sessions_label_color": "#333",
 					"sessions_icon_color": "#333",
 					"sessionsDetails_buttons_color": "#333",
 					"personalDetailsForm_section_title_color": "#333",
 					"paymentInfoCard_total_content_color": "#333",
 					"paymentInfoCard_total_label_color": "#333",
-					"sessionsDetails_input_color_data": "#333",
-					"button-color-disable": "white",
-					"card-amount-price-font": "Stratos, serif",
-					"card-borderRadius": "8px",
+					"sessionsDetails_input_color_data": "#fff",
+					"button_color_disable": "white",
+					"card_amount_price_font": "Stratos, serif",
+					"card_borderRadius": "8px",
+					"detail_categories_color": "#fff"
 				}
 			}
 		}
