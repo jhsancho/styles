@@ -96,7 +96,7 @@
 					"modal_faq_color": "#ff671f",
 					"modal_faq_color_hover": "#ff671f",
 					"terms_link_color": "#ff671f",
-					"swiper_button_color": "#333",
+					"swiper_button_color": "#fff",
 					"button_color_disable": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"container_border_active": "var(--recoglobick-border-style, var(--recoglobick-mmb-border-style)) #fff",
 					"calendar_color_selected": "#fff",
