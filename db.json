@@ -84,7 +84,7 @@
 					"button_bgColor_hover": "var(--recoglobick-interaction-darken, var(--recoglobick-mmb-interaction-darken))",
 					"button_bgColor_active": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
 					"button_color": "#fff",
-					"activities-title-font": "Stratos, serif";
+					"activities-title-font": "Stratos, serif",
 					"detail_section_title_color": "#333",
 					"detail_categories_color": "#333",
 					"button_fontWeight": "600",
