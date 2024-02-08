@@ -108,7 +108,8 @@
 					"paymentInfoCard_total_label_color": "#333",
 					"sessionsDetails_input_color_data": "#333",
 					"button-color-disable": "white",
-					"card-amount-price-font": "Stratos, serif"
+					"card-amount-price-font": "Stratos, serif",
+					"card-borderRadius": "8px",
 				}
 			}
 		}
