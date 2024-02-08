@@ -107,7 +107,8 @@
 					"paymentInfoCard_total_content_color": "#333",
 					"paymentInfoCard_total_label_color": "#333",
 					"sessionsDetails_input_color_data": "#333",
-					"button-color-disable": "white"
+					"button-color-disable": "white",
+					"card-amount-price-font": "Stratos, serif"
 				}
 			}
 		}
