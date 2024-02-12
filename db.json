@@ -92,7 +92,7 @@
 					"terms_link_color": "#ff671f",
 					"swiper_button_color": "#fff",
 					"button_color_disable": "var(--recoglobick-interaction, var(--recoglobick-mmb-interaction))",
-					"container_border_active": "var(--recoglobick-border-style, var(--recoglobick-mmb-border-style)) #fff",
+					"container_border_active": "var(--recoglobick-border-style, var(--recoglobick-mmb-border-style)) #d9dfe2",
 					"calendar_color_selected": "#fff",
 					"sessions_label_color": "#333",
 					"sessions_icon_color": "#333",
